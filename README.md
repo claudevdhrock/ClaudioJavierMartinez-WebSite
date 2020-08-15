@@ -1,6 +1,6 @@
-# Claudio Javier Martinez
-Pagina Web creada con CSS - HTML - JAVASCRIPT - BOOTSTRAP.
+# Claudio Javier Martinez WebSite
+Web page created with CSS - HTML - JAVASCRIPT - BOOTSTRAP.
 
-La pueden ver Online en: https://www.claudiojaviermartinez.com.ar
+You can see it Online at: https://www.claudiojaviermartinez.com.ar
 
 ![Claudio](./img/Claudio.png)
